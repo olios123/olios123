@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/olios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="olios" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@olios_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@olios_" height="30" width="40" /></a>
-<a href="https://discord.gg/olios_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="olios_" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15236796/olios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="olios" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvItgAEf16Fy7XILpzwfeAg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@olios_" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/495568046740471817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="olios_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
