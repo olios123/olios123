@@ -24,8 +24,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olios123&layout=compact&theme=dark" alt="olios123" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olios123&show_icons=true&theme=dark" />
+  <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=olios123&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olios123&theme=dark" />
+  <img height="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olios123&theme=dark" />
 </a>
