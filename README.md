@@ -7,7 +7,7 @@
 
 <h3 align="left">Work:</h3>
 
-- 🔭 I’m currently working on [Minecraft plugins](https://www.spigotmc.org/resources/authors/olios123.1116758/)
+- 🔭 I’m currently working on **Website Development**
 
 - 🌱 I’m currently learning **Unity, Blender, Game Development**
 
