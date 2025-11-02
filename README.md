@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/1009784232601718825/1430662880805519410/Element_as_BG.png?ex=68fa9823&is=68f946a3&hm=f05abea24e43bcab00130f83d8584da36e8fa77fa25db42637a1b8811c3cbf6d" alt="banner" width="100%"/> </p> <h1 align="center">👋 Hello, I'm <span style="color:#4da8da;">olios</span></h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/olios123/olios123/refs/heads/main/banner.png" alt="banner" width="100%"/> </p> <h1 align="center">👋 Hello, I'm <span style="color:#4da8da;">olios</span></h1>
 <p align="center">I'm a passionate developer who loves creating tools, apps, and interactive experiences that merge creativity with logic.
 I enjoy working with both frontend and backend technologies, game engines, and visual design software.</p>
 <h3 align="center">💻 Developer | 🎮 Game Enthusiast | 🧠 Tech Explorer</h3>
