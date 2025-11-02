@@ -2,7 +2,6 @@
 <p align="center">I'm a passionate developer who loves creating tools, apps, and interactive experiences that merge creativity with logic.
 I enjoy working with both frontend and backend technologies, game engines, and visual design software.</p>
 <h3 align="center">💻 Developer | 🎮 Game Enthusiast | 🧠 Tech Explorer</h3>
-<br>
 
 <!-- <h2 align="center">🌐 Connect with Me</h2>
 <p align="center"> <table align="center"> <tr> <td align="center"> <a href="https://stackoverflow.com/users/15236796/olios" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40"/><br/> <b>Stack Overflow</b><br/> Q&A & Community </a> </td> <td align="center"> <a href="https://www.youtube.com/channel/UCvItgAEf16Fy7XILpzwfeAg" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/><br/> <b>YouTube</b><br/> Tutorials & Devlogs </a> </td> <td align="center"> <a href="https://discordapp.com/users/495568046740471817" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/><br/> <b>Discord</b><br/> Chat & Collaboration </a> </td> </tr> </table> </p>
