@@ -1,13 +1,163 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/olios123/olios123/refs/heads/main/banner.png" alt="banner" width="100%"/> </p> <h1 align="center">👋 Hello, I'm <span style="color:#4da8da;">olios</span></h1>
-<p align="center">I'm a passionate developer who loves creating tools, apps, and interactive experiences that merge creativity with logic.
-I enjoy working with both frontend and backend technologies, game engines, and visual design software.</p>
-<h3 align="center">💻 Developer | 🎮 Game Enthusiast | 🧠 Tech Explorer</h3>
 
-<!-- <h2 align="center">🌐 Connect with Me</h2>
-<p align="center"> <table align="center"> <tr> <td align="center"> <a href="https://stackoverflow.com/users/15236796/olios" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40"/><br/> <b>Stack Overflow</b><br/> Q&A & Community </a> </td> <td align="center"> <a href="https://www.youtube.com/channel/UCvItgAEf16Fy7XILpzwfeAg" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/><br/> <b>YouTube</b><br/> Tutorials & Devlogs </a> </td> <td align="center"> <a href="https://discordapp.com/users/495568046740471817" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/><br/> <b>Discord</b><br/> Chat & Collaboration </a> </td> </tr> </table> </p>
 
-<h2 align="center">🧠 Programming Languages</h2>
-<p align="center"> <table align="center"> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/><br/>C#</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br/>PHP</td> </tr> </table> </p>
+<br/>
+<hr>
+<br/>
 
-<h2 align="center">🛠️ Tools & Frameworks</h2>
-<p align="center"> <table align="center"> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/>Node.js</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/>Express</td> <td align="center"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/><br/>Chart.js</td> <td align="center"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40" height="40"/><br/>CanvasJS</td> <td align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" width="40" height="40"/><br/>Bulma</td> </tr> <tr> <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/><br/>Unity</td> <td align="center"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/><br/>Blender</td> <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux</td> </tr> </table> </p> -->
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <th>
+      <a href="https://github.com/olios123/solvro-cocktailer/tree/master">Solvro cocktailer</a>
+    </th>
+    <th>
+      <a href="https://github.com/olios123/hardcore-mode">Hardcore Mode</a>
+    </th>
+  </tr>
+  <!-- <tr>
+    <td width="50%">
+      <img width="400" height="300" src="https://raw.githubusercontent.com/olios123/solvro-cocktailer/refs/heads/master/banner.png">
+    </td>
+    <td width="50%">
+      <img width="400" height="300" src="https://raw.githubusercontent.com/olios123/hardcore-mode/refs/heads/master/assets/repository-open-graph-hardcoremode.png">
+    </td>
+  </tr> -->
+  <tr>
+    <td>
+      <br/>
+      Interactive React application that lets users browse, filter, and save their favorite cocktails fetched from a public API.
+      <br/> <br/>
+    </td>
+    <td>
+      <br/>
+      Minecraft plugin introduces variety and difficulty in entertainment with temporary bans and a system of lives. 
+      <br/> <br/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solvro-cocktailer.netlify.app/">solvro-cocktailer.netlify.app</a>
+    </td>
+    <td>
+      <a href="https://www.spigotmc.org/resources/hardcoremode-temporary-bans-after-death.104642/">spigotmc.org/hardcoremode</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr width="50%">
+    <th>
+      <a href="https://github.com/olios123/backinpack">BackInPack</a>
+    </th>
+    <th>
+      <a href="https://github.com/olios123/chess-app">Chess app</a>
+    </th>
+  </tr>
+  <!-- <tr>
+    <td width="50%">
+      <img width="400" height="200" src="https://raw.githubusercontent.com/olios123/backinpack/refs/heads/master/assets/BACKINPACK-17-09-2023.png">
+    </td>
+    <td width="50%">
+      <img width="400" height="200" src="https://raw.githubusercontent.com/olios123/chess-app/refs/heads/main/Screenshot-2.png">
+    </td>
+  </tr> -->
+  <tr>
+    <td width="50%">
+      <br/>
+      Minecraft plugin that will give your players additional space and opportunities.
+      <br/> <br/>
+    </td>
+    <td width="50%">
+      <br/>
+      A simple website with chess app.
+      <br/> <br/>
+    </td>
+  </tr>
+  <tr width="50%">
+    <td>
+      <a href="https://www.spigotmc.org/resources/backinpack-portable-backpack.102384/">spigotmc.org/backinpack</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr>
+<br/>
+
+### 🏛️ Academic Involvement & Organizations
+
+<table border="0">
+  <tr>
+    <td width="120px" align="center">
+        <img src="https://raw.githubusercontent.com/Solvro/rekrutacja/refs/heads/main/assets/logo.png" width="80px">
+    </td>
+    <td>
+      <h3>KN Solvro</h3>
+      <strong>IT Student Science Club at Wroclaw Tech</strong> <br/>
+      <hr>
+      <img src="https://img.shields.io/badge/Role-Active%20Member-gray?style=flat-square" />
+      <img src="https://img.shields.io/badge/Section-Frontend%20Dev-007ACC?style=flat-square&logo=react&logoColor=white" /> <br/> <br/>
+      Solvro is a dynamic community of programming enthusiasts from Wrocław University of Science and Technology. Since 2018, we've been opening doors to the world of IT! <br/> <br/>
+      <table>
+        <tr>
+          <th>🔭 Projects I participate in:</th>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/Solvro/web-testownik"><strong>Testownik</strong></a> – <em>Contributor</em><br/>
+            Pre-session study app with quizzes.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr>
+<br/>
+
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Tools & OS</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,sass&perline=5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nextjs&perline=5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,mint,phpstorm&perline=5" /></td>
+  </tr>
+</table>
+
+<br/>
+<hr>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🎓 Education</h3>
+      <ul>
+        <li>
+          <strong>Wrocław University of Science and Technology</strong><br/>
+          <em>Field: Computer Science</em><br/>
+          202X - current
+        </li>
+      </ul>
+      <br/>
+    </td>
+    <td width="256px" align="center">
+      <h3>🌍 Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Polish-Native-red?style=flat-square" />
+        <br/>
+        <img src="https://img.shields.io/badge/English-B2%2FC1-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+</div>
