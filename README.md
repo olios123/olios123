@@ -4,9 +4,9 @@
 <hr>
 <br/>
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
-<table>
+<table width="100%">
   <tr>
     <th>
       <a href="https://github.com/olios123/solvro-cocktailer/tree/master">Solvro cocktailer</a>
@@ -15,37 +15,34 @@
       <a href="https://github.com/olios123/hardcore-mode">Hardcore Mode</a>
     </th>
   </tr>
-  <!-- <tr>
-    <td width="50%">
+  <tr>
+    <td width="50%" align="center">
       <img width="400" height="300" src="https://raw.githubusercontent.com/olios123/solvro-cocktailer/refs/heads/master/banner.png">
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img width="400" height="300" src="https://raw.githubusercontent.com/olios123/hardcore-mode/refs/heads/master/assets/repository-open-graph-hardcoremode.png">
     </td>
-  </tr> -->
+  </tr>
   <tr>
-    <td>
+    <td align="center">
       <br/>
       Interactive React application that lets users browse, filter, and save their favorite cocktails fetched from a public API.
       <br/> <br/>
     </td>
-    <td>
+    <td align="center">
       <br/>
       Minecraft plugin introduces variety and difficulty in entertainment with temporary bans and a system of lives. 
       <br/> <br/>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%" align="center">
       <a href="https://solvro-cocktailer.netlify.app/">solvro-cocktailer.netlify.app</a>
     </td>
-    <td>
+    <td width="50%" align="center">
       <a href="https://www.spigotmc.org/resources/hardcoremode-temporary-bans-after-death.104642/">spigotmc.org/hardcoremode</a>
     </td>
   </tr>
-</table>
-
-<table>
   <tr width="50%">
     <th>
       <a href="https://github.com/olios123/backinpack">BackInPack</a>
@@ -54,28 +51,28 @@
       <a href="https://github.com/olios123/chess-app">Chess app</a>
     </th>
   </tr>
-  <!-- <tr>
-    <td width="50%">
+  <tr>
+    <td width="50%" align="center">
       <img width="400" height="200" src="https://raw.githubusercontent.com/olios123/backinpack/refs/heads/master/assets/BACKINPACK-17-09-2023.png">
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img width="400" height="200" src="https://raw.githubusercontent.com/olios123/chess-app/refs/heads/main/Screenshot-2.png">
     </td>
-  </tr> -->
+  </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <br/>
       Minecraft plugin that will give your players additional space and opportunities.
       <br/> <br/>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <br/>
       A simple website with chess app.
       <br/> <br/>
     </td>
   </tr>
   <tr width="50%">
-    <td>
+    <td width="50%" align="center">
       <a href="https://www.spigotmc.org/resources/backinpack-portable-backpack.102384/">spigotmc.org/backinpack</a>
     </td>
   </tr>
@@ -85,40 +82,40 @@
 <hr>
 <br/>
 
-### 🏛️ Academic Involvement & Organizations
+<h3 align="center">🏛️ Academic Involvement & Organizations</h3>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="120px" align="center">
-        <img src="https://raw.githubusercontent.com/Solvro/rekrutacja/refs/heads/main/assets/logo.png" width="80px">
+    <td width="30%" align="center">
+        <img src="https://raw.githubusercontent.com/Solvro/rekrutacja/refs/heads/main/assets/logo.png" width="180px">
     </td>
-    <td>
+    <td colspan="2">
       <h3>KN Solvro</h3>
       <strong>IT Student Science Club at Wroclaw Tech</strong> <br/>
       <hr>
       <img src="https://img.shields.io/badge/Role-Active%20Member-gray?style=flat-square" />
       <img src="https://img.shields.io/badge/Section-Frontend%20Dev-007ACC?style=flat-square&logo=react&logoColor=white" /> <br/> <br/>
       Solvro is a dynamic community of programming enthusiasts from Wrocław University of Science and Technology. Since 2018, we've been opening doors to the world of IT! <br/> <br/>
-      <table>
-        <tr>
-          <th>🔭 Projects I participate in:</th>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://github.com/Solvro/web-testownik"><strong>Testownik</strong></a> – <em>Contributor</em><br/>
-            Pre-session study app with quizzes.
-          </td>
-        </tr>
-      </table>
     </td>
+    
+    
   </tr>
+  <tr>
+      <th>🔭 Projects I participate in:</th>
+    <td align="center">
+            <a href="https://github.com/Solvro/web-testownik"><strong>Testownik</strong></a> – <em>Contributor</em>
+          </td>
+    <td>
+      Pre-session study app with quizzes.
+    </td>
+    </tr>
 </table>
 
 <br/>
 <hr>
 <br/>
 
-<table>
+<table width="100%" align="center">
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
@@ -135,7 +132,7 @@
 <hr>
 <br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td>
       <h3>🎓 Education</h3>
