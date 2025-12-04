@@ -6,7 +6,7 @@
 <hr>
 <br/>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<!-- <h3 align="center">🚀 Featured Projects</h3>
 
 <table width="100%">
   <tr>
@@ -78,7 +78,7 @@
       <a href="https://www.spigotmc.org/resources/backinpack-portable-backpack.102384/">spigotmc.org/backinpack</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 <hr>
