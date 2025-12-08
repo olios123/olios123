@@ -103,13 +103,15 @@
     
   </tr>
   <tr>
-      <th>🔭 Projects I participate in:</th>
-    <td align="center">
+      <th colspan="2">🔭 Projects I participate in:</th>
+    <tr>
+      <td align="center">
             <a href="https://github.com/Solvro/web-testownik"><strong>Testownik</strong></a> – <em>Contributor</em>
           </td>
     <td>
       Pre-session study app with quizzes.
     </td>
+    </tr>
     </tr>
 </table>
 
@@ -117,16 +119,16 @@
 <hr>
 <br/>
 
-<table width="100%" align="center">
+<table align="center">
   <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Tools & OS</th>
+    <th width="300">Frontend</th>
+    <th width="300">Backend</th>
+    <th width="300">Tools & OS</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,sass&perline=5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nextjs&perline=5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,linux,mint,phpstorm&perline=5" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,sass&perline=5" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,nextjs&perline=5" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,linux,mint,phpstorm&perline=5" /></td>
   </tr>
 </table>
 
@@ -137,7 +139,7 @@
 <table align="center">
   <tr>
     <td width="500">
-      <h3>🎓 Education</h3>
+      <h2 align="center">🎓 Education</h2>
       <ul>
         <li>
           <strong>Wrocław University of Science and Technology</strong><br/>
@@ -148,11 +150,11 @@
       <br/>
     </td>
     <td width="400" align="center">
-      <h3>🌍 Languages</h3>
+      <h2 align="center">🌍 Languages</h2>
       <p>
-        <img src="https://img.shields.io/badge/Polish-Native-red?style=flat-square" />
-        <br/>
+        <img src="https://img.shields.io/badge/Polish-Native-red?style=flat-square" /> <br/>
         <img src="https://img.shields.io/badge/English-B2%2FC1-blue?style=flat-square" />
+        <br/> <br/> <br/>
       </p>
     </td>
   </tr>
