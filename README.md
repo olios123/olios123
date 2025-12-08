@@ -134,9 +134,9 @@
 <hr>
 <br/>
 
-<table width="100%" align="center">
+<table align="center">
   <tr>
-    <td>
+    <td width="500">
       <h3>🎓 Education</h3>
       <ul>
         <li>
@@ -147,7 +147,7 @@
       </ul>
       <br/>
     </td>
-    <td width="256px" align="center">
+    <td width="400" align="center">
       <h3>🌍 Languages</h3>
       <p>
         <img src="https://img.shields.io/badge/Polish-Native-red?style=flat-square" />
