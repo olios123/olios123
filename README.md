@@ -84,7 +84,8 @@
 <hr>
 <br/>
 
-<h3 align="center">🏛️ Academic Involvement & Organizations</h3>
+<br/>
+<h1 align="center">🏛️ Organizations</h1>
 
 <table border="0" width="100%">
   <tr>
@@ -116,8 +117,7 @@
 </table>
 
 <br/>
-<hr>
-<br/>
+<h1 align="center">🐱‍💻 Tech</h1>
 
 <table align="center">
   <tr>
@@ -133,8 +133,7 @@
 </table>
 
 <br/>
-<hr>
-<br/>
+<h1 align="center">📖 More about me</h1>
 
 <table align="center">
   <tr>
